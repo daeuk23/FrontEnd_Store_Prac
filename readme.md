@@ -10,10 +10,10 @@ in the form of identifying, classifying, and storing data on existing inventory 
 
 ## Pages  
 All the public Html's (visable pages) are In src folder  
-About-> Intro Of my individual Info who am I, my buisness contacts  
-Honesty-> Rights about this site  
-Index-> Displaying the remaining, stored data  
-product_resistration-> Input the new data to Add to Index  
+About -> Intro Of my individual Info who am I, my buisness contacts  
+Honesty -> Rights about this site  
+Index -> Displaying the remaining, stored data  
+product_resistration -> Input the new data to Add to Index  
 
 ## Setup
 
