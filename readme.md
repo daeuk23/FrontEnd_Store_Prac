@@ -1,7 +1,7 @@
 # Daeuk Kim's Store
 This website(Blog) has been created by **Daeuk Kim** Who was In seneca collage computer programming course.  
 Using Node.js, npm skills simple tequniques using Js,Html,Css  
-Develope date: Oct 21th to Nov 11th 2023  
+Develope date: Oct 21th ~ Nov 11th 2023  
 
 ## Purpose of this website:  
 As the first experience of web development,  
