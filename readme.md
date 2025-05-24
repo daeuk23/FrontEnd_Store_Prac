@@ -3,12 +3,12 @@ This website(Blog) has been created by **Daeuk Kim** Who was In seneca collage c
 Using Node.js, npm skills simple tequniques using Js,Html,Css  
 Develope date: Oct 21th ~ Nov 11th 2023  
 
-## Purpose of this website:  
+## Purpose of this website  
 As the first experience of web development,  
 this site is a simple site that uses various front-end techniques to manage data  
 in the form of identifying, classifying, and storing data on existing inventory and new data in protocols.
 
-## Pages:
+## Pages  
 All the public Html's (visable pages) are In src folder
 About-> Intro Of my individual Info who am I, my buisness contacts  
 Honesty-> Rights about this site  
