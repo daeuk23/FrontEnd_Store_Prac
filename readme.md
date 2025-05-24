@@ -9,7 +9,7 @@ this site is a simple site that uses various front-end techniques to manage data
 in the form of identifying, classifying, and storing data on existing inventory and new data in protocols.
 
 ## Pages  
-All the public Html's (visable pages) are In src folder
+All the public Html's (visable pages) are In src folder  
 About-> Intro Of my individual Info who am I, my buisness contacts  
 Honesty-> Rights about this site  
 Index-> Displaying the remaining, stored data  
